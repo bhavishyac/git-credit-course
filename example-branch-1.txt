@@ -1,1 +1,1 @@
-This line is different in branch1
+This line changed in branch 1
