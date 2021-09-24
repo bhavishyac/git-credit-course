@@ -1,1 +1,2 @@
 stash test
+this is stored in stash 0
